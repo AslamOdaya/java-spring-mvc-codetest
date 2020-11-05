@@ -1,0 +1,602 @@
+[
+  {
+    "id": 10000053,
+    "name": "Anthony Chase",
+    "duetime": "2013-12-14T11:37:10Z",
+    "jointime": "2015-08-18T07:29:11Z"
+  },
+  {
+    "id": 10000093,
+    "name": "Bert Hess",
+    "duetime": "2013-12-23T10:36:09Z",
+    "jointime": "2014-06-23T12:27:12Z"
+  },
+  {
+    "id": 10000001,
+    "name": "Bruce Cardenas",
+    "duetime": "2013-12-28T22:11:12Z",
+    "jointime": "2014-07-04T04:53:42Z"
+  },
+  {
+    "id": 10000002,
+    "name": "Barrett Peterson",
+    "duetime": "2013-12-30T06:33:23Z",
+    "jointime": "2014-10-24T04:46:24Z"
+  },
+  {
+    "id": 10000034,
+    "name": "Gareth Hurley",
+    "duetime": "2014-01-02T03:50:21Z",
+    "jointime": "2015-03-27T14:26:58Z"
+  },
+  {
+    "id": 10000023,
+    "name": "Malcolm Zamora",
+    "duetime": "2014-01-06T20:52:39Z",
+    "jointime": "2014-04-07T17:53:20Z"
+  },
+  {
+    "id": 10000094,
+    "name": "Lamar Guy",
+    "duetime": "2014-01-07T00:01:36Z",
+    "jointime": "2015-02-25T20:22:43Z"
+  },
+  {
+    "id": 10000047,
+    "name": "Harlan Mcgowan",
+    "duetime": "2014-01-22T15:45:37Z",
+    "jointime": "2014-07-29T14:53:08Z"
+  },
+  {
+    "id": 10000042,
+    "name": "Ryder Vance",
+    "duetime": "2014-01-26T04:41:25Z",
+    "jointime": "2015-07-11T14:26:09Z"
+  },
+  {
+    "id": 10000003,
+    "name": "Dexter Sweeney",
+    "duetime": "2014-01-29T19:35:22Z",
+    "jointime": "2014-11-11T16:34:57Z"
+  },
+  {
+    "id": 10000051,
+    "name": "Holmes Finley",
+    "duetime": "2014-02-04T01:56:07Z",
+    "jointime": "2014-06-07T03:47:24Z"
+  },
+  {
+    "id": 10000075,
+    "name": "Cruz Small",
+    "duetime": "2014-02-13T04:23:56Z",
+    "jointime": "2014-07-23T08:11:20Z"
+  },
+  {
+    "id": 10000016,
+    "name": "Brady Fuentes",
+    "duetime": "2014-02-24T06:31:12Z",
+    "jointime": "2015-02-26T18:51:17Z"
+  },
+  {
+    "id": 10000033,
+    "name": "Axel Calderon",
+    "duetime": "2014-03-01T04:20:59Z",
+    "jointime": "2015-08-01T19:43:13Z"
+  },
+  {
+    "id": 10000064,
+    "name": "Cole Mckinney",
+    "duetime": "2014-03-02T10:58:27Z",
+    "jointime": "2014-05-20T14:12:09Z"
+  },
+  {
+    "id": 10000052,
+    "name": "Quinlan Larsen",
+    "duetime": "2014-03-02T11:54:35Z",
+    "jointime": "2014-02-24T01:10:33Z"
+  },
+  {
+    "id": 10000061,
+    "name": "Walker Mills",
+    "duetime": "2014-03-08T14:12:55Z",
+    "jointime": "2014-07-11T15:43:41Z"
+  },
+  {
+    "id": 10000018,
+    "name": "Aladdin Garrett",
+    "duetime": "2014-03-14T10:22:29Z",
+    "jointime": "2015-02-14T06:18:35Z"
+  },
+  {
+    "id": 10000035,
+    "name": "Jonas Mccray",
+    "duetime": "2014-03-21T04:33:33Z",
+    "jointime": "2015-05-15T10:30:55Z"
+  },
+  {
+    "id": 10000009,
+    "name": "Keegan Page",
+    "duetime": "2014-04-02T19:05:25Z",
+    "jointime": "2014-10-07T15:43:33Z"
+  },
+  {
+    "id": 10000060,
+    "name": "Cody Clark",
+    "duetime": "2014-04-10T04:02:31Z",
+    "jointime": "2015-01-07T04:46:23Z"
+  },
+  {
+    "id": 10000081,
+    "name": "Lucius Rosales",
+    "duetime": "2014-04-24T07:38:27Z",
+    "jointime": "2015-10-06T23:44:43Z"
+  },
+  {
+    "id": 10000036,
+    "name": "Tarik Chang",
+    "duetime": "2014-04-30T16:58:40Z",
+    "jointime": "2014-07-04T02:10:03Z"
+  },
+  {
+    "id": 10000028,
+    "name": "Yuli Cain",
+    "duetime": "2014-05-06T14:35:43Z",
+    "jointime": "2015-04-05T17:54:44Z"
+  },
+  {
+    "id": 10000095,
+    "name": "Garrett William",
+    "duetime": "2014-05-18T20:25:52Z",
+    "jointime": "2015-06-09T04:21:40Z"
+  },
+  {
+    "id": 10000019,
+    "name": "Oren Lawson",
+    "duetime": "2014-05-24T05:34:55Z",
+    "jointime": "2015-07-05T15:19:45Z"
+  },
+  {
+    "id": 10000004,
+    "name": "Hasad Walker",
+    "duetime": "2014-05-27T19:30:05Z",
+    "jointime": "2013-12-24T22:17:14Z"
+  },
+  {
+    "id": 10000000,
+    "name": "Ulysses Leon",
+    "duetime": "2014-06-18T13:26:56Z",
+    "jointime": "2015-04-08T19:47:16Z"
+  },
+  {
+    "id": 10000076,
+    "name": "Beck Cotton",
+    "duetime": "2014-06-27T09:41:14Z",
+    "jointime": "2015-10-16T21:35:48Z"
+  },
+  {
+    "id": 10000017,
+    "name": "Flynn Maxwell",
+    "duetime": "2014-06-27T21:54:28Z",
+    "jointime": "2013-12-22T13:33:47Z"
+  },
+  {
+    "id": 10000087,
+    "name": "Alan Griffin",
+    "duetime": "2014-07-04T22:54:48Z",
+    "jointime": "2015-11-22T08:31:00Z"
+  },
+  {
+    "id": 10000048,
+    "name": "Arsenio Vega",
+    "duetime": "2014-07-22T07:41:50Z",
+    "jointime": "2014-08-11T03:49:51Z"
+  },
+  {
+    "id": 10000056,
+    "name": "Kadeem Campbell",
+    "duetime": "2014-07-28T13:34:53Z",
+    "jointime": "2014-12-04T01:21:22Z"
+  },
+  {
+    "id": 10000057,
+    "name": "Dale Rowe",
+    "duetime": "2014-08-01T11:27:11Z",
+    "jointime": "2014-05-18T06:03:33Z"
+  },
+  {
+    "id": 10000062,
+    "name": "Louis Dixon",
+    "duetime": "2014-08-06T15:18:39Z",
+    "jointime": "2014-12-22T03:45:17Z"
+  },
+  {
+    "id": 10000066,
+    "name": "Addison Stuart",
+    "duetime": "2014-08-11T01:10:35Z",
+    "jointime": "2015-09-21T22:21:21Z"
+  },
+  {
+    "id": 10000074,
+    "name": "Macon Dawson",
+    "duetime": "2014-08-21T09:47:25Z",
+    "jointime": "2015-08-29T22:51:48Z"
+  },
+  {
+    "id": 10000083,
+    "name": "Otto Estrada",
+    "duetime": "2014-08-22T17:20:05Z",
+    "jointime": "2014-05-23T10:19:45Z"
+  },
+  {
+    "id": 10000008,
+    "name": "Dale Valenzuela",
+    "duetime": "2014-09-03T03:28:07Z",
+    "jointime": "2014-02-22T07:40:31Z"
+  },
+  {
+    "id": 10000025,
+    "name": "Uriel Cline",
+    "duetime": "2014-09-04T02:14:45Z",
+    "jointime": "2015-04-22T19:15:19Z"
+  },
+  {
+    "id": 10000086,
+    "name": "Cain Rutledge",
+    "duetime": "2014-09-21T11:23:47Z",
+    "jointime": "2015-10-12T08:52:06Z"
+  },
+  {
+    "id": 10000088,
+    "name": "Bruno Ochoa",
+    "duetime": "2014-10-13T03:06:39Z",
+    "jointime": "2015-07-30T17:21:16Z"
+  },
+  {
+    "id": 10000070,
+    "name": "Barrett Burke",
+    "duetime": "2014-10-15T07:17:45Z",
+    "jointime": "2013-12-25T08:14:15Z"
+  },
+  {
+    "id": 10000092,
+    "name": "Allistair Hammond",
+    "duetime": "2014-11-01T22:30:21Z",
+    "jointime": "2014-09-24T12:47:48Z"
+  },
+  {
+    "id": 10000067,
+    "name": "Fletcher Hopper",
+    "duetime": "2014-11-19T02:06:16Z",
+    "jointime": "2014-05-26T08:08:16Z"
+  },
+  {
+    "id": 10000013,
+    "name": "Tucker Barr",
+    "duetime": "2014-11-29T13:02:19Z",
+    "jointime": "2014-08-09T13:05:50Z"
+  },
+  {
+    "id": 10000097,
+    "name": "Phillip Watts",
+    "duetime": "2014-12-02T07:41:05Z",
+    "jointime": "2015-06-17T03:46:38Z"
+  },
+  {
+    "id": 10000014,
+    "name": "Tyrone Lee",
+    "duetime": "2014-12-13T22:41:19Z",
+    "jointime": "2014-10-06T17:39:11Z"
+  },
+  {
+    "id": 10000090,
+    "name": "Hashim May",
+    "duetime": "2014-12-21T03:35:13Z",
+    "jointime": "2014-10-25T18:55:54Z"
+  },
+  {
+    "id": 10000050,
+    "name": "Fuller Avila",
+    "duetime": "2015-01-07T13:54:45Z",
+    "jointime": "2014-03-19T10:20:34Z"
+  },
+  {
+    "id": 10000054,
+    "name": "Eaton Sexton",
+    "duetime": "2015-01-09T14:29:58Z",
+    "jointime": "2014-03-09T21:34:22Z"
+  },
+  {
+    "id": 10000069,
+    "name": "Colt Bass",
+    "duetime": "2015-01-14T16:10:07Z",
+    "jointime": "2015-10-04T14:10:29Z"
+  },
+  {
+    "id": 10000059,
+    "name": "Kyle Butler",
+    "duetime": "2015-01-21T02:05:54Z",
+    "jointime": "2015-10-16T09:52:06Z"
+  },
+  {
+    "id": 10000022,
+    "name": "Akeem Howell",
+    "duetime": "2015-02-01T12:10:12Z",
+    "jointime": "2015-12-07T14:45:42Z"
+  },
+  {
+    "id": 10000078,
+    "name": "Forrest Cotton",
+    "duetime": "2015-02-10T12:12:36Z",
+    "jointime": "2015-03-06T18:15:04Z"
+  },
+  {
+    "id": 10000079,
+    "name": "Basil Fletcher",
+    "duetime": "2015-02-25T14:30:05Z",
+    "jointime": "2014-10-08T02:43:01Z"
+  },
+  {
+    "id": 10000044,
+    "name": "Benjamin Guerra",
+    "duetime": "2015-03-12T02:03:15Z",
+    "jointime": "2015-11-23T17:11:59Z"
+  },
+  {
+    "id": 10000068,
+    "name": "Tobias Fischer",
+    "duetime": "2015-03-14T08:50:35Z",
+    "jointime": "2015-03-26T01:17:05Z"
+  },
+  {
+    "id": 10000063,
+    "name": "Wallace Crawford",
+    "duetime": "2015-03-15T11:25:27Z",
+    "jointime": "2014-03-02T03:27:24Z"
+  },
+  {
+    "id": 10000091,
+    "name": "Hoyt Duke",
+    "duetime": "2015-04-03T20:52:53Z",
+    "jointime": "2014-05-07T22:20:37Z"
+  },
+  {
+    "id": 10000038,
+    "name": "Thane Glover",
+    "duetime": "2015-04-05T12:26:27Z",
+    "jointime": "2014-11-14T19:58:25Z"
+  },
+  {
+    "id": 10000006,
+    "name": "Mohammad Lindsay",
+    "duetime": "2015-04-11T11:34:42Z",
+    "jointime": "2014-04-08T15:51:26Z"
+  },
+  {
+    "id": 10000089,
+    "name": "Vernon Hodge",
+    "duetime": "2015-04-24T05:27:28Z",
+    "jointime": "2015-05-01T16:11:09Z"
+  },
+  {
+    "id": 10000015,
+    "name": "Jermaine Rosa",
+    "duetime": "2015-05-01T11:58:16Z",
+    "jointime": "2014-05-31T07:33:50Z"
+  },
+  {
+    "id": 10000032,
+    "name": "Jesse Price",
+    "duetime": "2015-05-04T15:32:21Z",
+    "jointime": "2014-02-08T13:53:24Z"
+  },
+  {
+    "id": 10000098,
+    "name": "Howard Beach",
+    "duetime": "2015-05-13T15:52:20Z",
+    "jointime": "2015-03-04T15:05:22Z"
+  },
+  {
+    "id": 10000045,
+    "name": "Chase Levy",
+    "duetime": "2015-05-23T20:26:17Z",
+    "jointime": "2015-10-21T11:45:43Z"
+  },
+  {
+    "id": 10000031,
+    "name": "Emery Villarreal",
+    "duetime": "2015-05-25T10:35:26Z",
+    "jointime": "2015-06-14T22:35:37Z"
+  },
+  {
+    "id": 10000021,
+    "name": "Erasmus Mccullough",
+    "duetime": "2015-05-28T04:36:12Z",
+    "jointime": "2014-02-05T20:38:35Z"
+  },
+  {
+    "id": 10000096,
+    "name": "Chester Stark",
+    "duetime": "2015-05-31T00:11:38Z",
+    "jointime": "2014-03-23T02:24:05Z"
+  },
+  {
+    "id": 10000080,
+    "name": "Nicholas Sims",
+    "duetime": "2015-05-31T04:23:43Z",
+    "jointime": "2014-12-01T17:28:45Z"
+  },
+  {
+    "id": 10000072,
+    "name": "Felix Burks",
+    "duetime": "2015-05-31T23:41:25Z",
+    "jointime": "2014-03-31T12:29:30Z"
+  },
+  {
+    "id": 10000055,
+    "name": "Magee Frederick",
+    "duetime": "2015-06-14T08:04:06Z",
+    "jointime": "2014-05-05T12:51:35Z"
+  },
+  {
+    "id": 10000077,
+    "name": "Yardley Mason",
+    "duetime": "2015-07-10T10:30:48Z",
+    "jointime": "2015-07-21T17:05:59Z"
+  },
+  {
+    "id": 10000099,
+    "name": "Neville Mcdowell",
+    "duetime": "2015-07-28T01:52:03Z",
+    "jointime": "2014-07-23T06:43:23Z"
+  },
+  {
+    "id": 10000041,
+    "name": "Chaim Grimes",
+    "duetime": "2015-07-31T18:35:09Z",
+    "jointime": "2014-12-04T13:31:40Z"
+  },
+  {
+    "id": 10000012,
+    "name": "Samson Rhodes",
+    "duetime": "2015-08-04T03:19:56Z",
+    "jointime": "2015-02-25T15:01:14Z"
+  },
+  {
+    "id": 10000039,
+    "name": "Kenyon Dickerson",
+    "duetime": "2015-08-05T23:20:36Z",
+    "jointime": "2014-12-27T00:43:35Z"
+  },
+  {
+    "id": 10000085,
+    "name": "Ahmed Harris",
+    "duetime": "2015-08-12T13:46:56Z",
+    "jointime": "2015-01-14T10:37:50Z"
+  },
+  {
+    "id": 10000065,
+    "name": "Craig Flynn",
+    "duetime": "2015-08-22T19:52:39Z",
+    "jointime": "2015-05-28T22:13:45Z"
+  },
+  {
+    "id": 10000026,
+    "name": "Geoffrey Guthrie",
+    "duetime": "2015-08-29T17:51:38Z",
+    "jointime": "2015-07-02T00:31:03Z"
+  },
+  {
+    "id": 10000084,
+    "name": "Sylvester Hull",
+    "duetime": "2015-09-06T21:40:19Z",
+    "jointime": "2015-02-08T08:38:21Z"
+  },
+  {
+    "id": 10000049,
+    "name": "Christopher Snyder",
+    "duetime": "2015-09-06T23:35:08Z",
+    "jointime": "2015-10-05T06:55:02Z"
+  },
+  {
+    "id": 10000071,
+    "name": "Thomas Lynch",
+    "duetime": "2015-09-08T21:40:41Z",
+    "jointime": "2014-12-13T21:30:03Z"
+  },
+  {
+    "id": 10000030,
+    "name": "Rooney Mosley",
+    "duetime": "2015-09-09T01:22:40Z",
+    "jointime": "2015-03-12T15:14:39Z"
+  },
+  {
+    "id": 10000043,
+    "name": "Tobias Ferrell",
+    "duetime": "2015-09-11T00:17:04Z",
+    "jointime": "2015-05-03T11:44:01Z"
+  },
+  {
+    "id": 10000027,
+    "name": "Chandler Mitchell",
+    "duetime": "2015-09-12T11:10:10Z",
+    "jointime": "2015-02-27T09:16:57Z"
+  },
+  {
+    "id": 10000046,
+    "name": "Maxwell Thomas",
+    "duetime": "2015-09-15T04:30:24Z",
+    "jointime": "2014-03-13T13:17:33Z"
+  },
+  {
+    "id": 10000082,
+    "name": "Tanner Preston",
+    "duetime": "2015-09-16T09:17:24Z",
+    "jointime": "2014-04-01T17:27:35Z"
+  },
+  {
+    "id": 10000005,
+    "name": "Dieter May",
+    "duetime": "2015-09-23T05:18:45Z",
+    "jointime": "2013-12-11T08:13:59Z"
+  },
+  {
+    "id": 10000024,
+    "name": "Cade Houston",
+    "duetime": "2015-09-29T11:48:26Z",
+    "jointime": "2014-08-04T09:59:56Z"
+  },
+  {
+    "id": 10000020,
+    "name": "Calvin Vaughan",
+    "duetime": "2015-10-14T04:36:39Z",
+    "jointime": "2014-08-16T09:41:34Z"
+  },
+  {
+    "id": 10000037,
+    "name": "Hayden Palmer",
+    "duetime": "2015-10-18T13:11:41Z",
+    "jointime": "2014-04-29T09:45:18Z"
+  },
+  {
+    "id": 10000029,
+    "name": "Harrison Cohen",
+    "duetime": "2015-10-30T19:19:56Z",
+    "jointime": "2015-05-01T13:03:44Z"
+  },
+  {
+    "id": 10000073,
+    "name": "Stephen Pace",
+    "duetime": "2015-10-31T01:59:48Z",
+    "jointime": "2014-05-30T07:14:48Z"
+  },
+  {
+    "id": 10000040,
+    "name": "Marsden Pitts",
+    "duetime": "2015-11-02T20:33:12Z",
+    "jointime": "2014-10-28T21:17:04Z"
+  },
+  {
+    "id": 10000011,
+    "name": "Burke Cox",
+    "duetime": "2015-11-06T10:19:50Z",
+    "jointime": "2014-11-06T06:09:55Z"
+  },
+  {
+    "id": 10000058,
+    "name": "Logan Sweeney",
+    "duetime": "2015-11-11T17:19:37Z",
+    "jointime": "2015-08-20T13:09:22Z"
+  },
+  {
+    "id": 10000007,
+    "name": "Xander Leach",
+    "duetime": "2015-11-26T02:49:32Z",
+    "jointime": "2014-03-02T17:13:25Z"
+  },
+  {
+    "id": 10000010,
+    "name": "Wing French",
+    "duetime": "2015-12-03T11:31:31Z",
+    "jointime": "2015-01-17T23:36:04Z"
+  }
+]
